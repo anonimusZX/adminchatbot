@@ -1,5 +1,5 @@
 GROUP_ID = "-1001433670851"
-API_TOKEN = ''
+API_TOKEN = '1703648997:AAGo6DXhrohNCEP8RNmoUpCrkcOXc3yw32w'
 Ban_world1 = "спам" 
 Ban_world2 = "рекламма"
 Ban_world3 = "советую"
